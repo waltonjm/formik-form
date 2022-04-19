@@ -14,9 +14,9 @@ Run npm install to install all dependencies. Once the command completes successf
 Javascript needs to be enabled to run this app.
 ## Support
 For help use the standard reference sites:
-•	https://stackoverflow.com/
-•	https://developer.mozilla.org
-•	https://codepen.io/
+* https://stackoverflow.com/
+* https://developer.mozilla.org
+* https://codepen.io/
 Roadmap
 This application will be used in the development of other applications as we progress in this boot camp.
 
