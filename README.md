@@ -9,7 +9,7 @@ This repository is a react application used to create form fields. In this insta
 * f the username is not in an email format, display the message "Username should be an email" under the text input.
 * If the username and password pass the above validations, then display the message "Login Successful" in an alert box.
 ## Installation
-Run npm install to install all dependencies. Once the command completes successfully, run npm start to start the application in the your browser.
+Run npm install to install all dependencies. Once the command completes successfully, run npm start to start the application in your browser.
 ## Usage
 Javascript needs to be enabled to run this app.
 ## Support
